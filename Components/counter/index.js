@@ -31,7 +31,7 @@ class Counter extends Component{
                             Increase
                         </button>
                         <button onClick={this.onDecrement}>
-                            Increase
+                            Decrease
                         </button>
                     </div>
                     
